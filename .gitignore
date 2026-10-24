@@ -1,0 +1,22 @@
+# Build output
+build/
+build-*/
+cmake-build-*/
+out/
+compile_commands.json
+CMakeUserPresets.json
+
+# Object files and binaries
+*.o
+*.a
+*.so
+
+# Editors / tooling caches
+.cache/
+.vscode/
+.idea/
+*.swp
+*~
+
+# REPL history written by minidbg
+.minidbg_history
